@@ -21,7 +21,6 @@ body {
     width:100%;
     padding: 0.5rem 10%;
     background: rgba(188, 149, 110, 0.5);
-    backdrop-filter:blur(15px);
     display:flex;
     justify-content:space-between;
     align-items:center;
@@ -30,14 +29,14 @@ body {
 
 .navbar a {
     font-size:1.2rem;
-    color: white;
+    color: #230B2F;
     text-decoration:none;
     font-weight:500;
     margin-left: 2.5rem;
 }
 
 .navbar a:hover {
-    color:#e1003c
+    color:#2100aa
 }
 
 #check {
